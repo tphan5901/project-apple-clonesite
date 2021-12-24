@@ -50,9 +50,13 @@ menu {
     padding-left: 14px;
     text-align: center;
 }
-.ten {
-    padding-right: -20px;
-    padding-left: -20px;
+
+footer {
+        width: 1841px;
+    font-size: 20px;
+    margin: auto;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
     text-align: center;
 }
 
@@ -75,6 +79,13 @@ div:hover {
 }
 
     h1 {
+    padding-right: -20px;
+    padding-left: -20px;
+    text-align: center;
+    font-size: 30px;
+    bottom: 18px;
+    padding-left: 300px;
+    padding-right: 300px;
         font-size: 40px;
     }
     .one {
