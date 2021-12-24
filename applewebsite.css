@@ -11,7 +11,7 @@
 }
 
 nav {
-    width: 1550px;
+    width: 1525px;
     height: 50px;
     background-color: black;
     text-align: center;
@@ -62,7 +62,7 @@ footer {
 main {
     background-color: rgb(255, 255, 255);
     height: 400px;
-    width: 1550px;
+    width: 1525px;
 }
 
 div:hover {
